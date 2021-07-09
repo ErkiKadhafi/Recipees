@@ -1,0 +1,4 @@
+const ingredients = recipe.extendedIngredients;
+
+ingredient.name
+ingredient.amount
