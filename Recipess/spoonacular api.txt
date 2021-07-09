@@ -1,0 +1,5 @@
+API KEY= 1dea5c571b2d4d97851d0a8b848f4479
+
+random recipes
+get recipee information
+get similar recipes
